@@ -1,2 +1,3 @@
 # New project 
- this proojecct only for demo
+ this project a basic siman says game 
+ 
